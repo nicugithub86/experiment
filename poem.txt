@@ -10,3 +10,5 @@ nelutu
 sa facem show
 
 sa facem un branch nou sa vedem
+
+tutulucule ce faci?
